@@ -1,8 +1,5 @@
 /*
  *
- * Student Name: Geoffrey Ostosh
- * loginID: CSC407s35
- * Homework #: lab2
  *
  *
  * mm.c - simple light-weight memory allocation package. implementation based on first fit
