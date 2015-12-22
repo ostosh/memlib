@@ -1,7 +1,4 @@
 /*
- *
- *
- *
  * mm.c - simple light-weight memory allocation package. implementation based on first fit
  * search of a segregated fits table. seg_lists (segregated fits table header) is an array
  * of ptrs to linkedlists of free blocks for each size class. each ptr can be a null ref or a
